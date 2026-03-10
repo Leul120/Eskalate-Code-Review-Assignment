@@ -1,0 +1,15 @@
+.git
+.gitignore
+README.md
+Explanation.md
+node_modules
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+*.log
+coverage
+.vitest
+.DS_Store
+.idea
+.vscode
+*.swp
